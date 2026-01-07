@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+.env/
+.env*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Optional: ignore large/local assets (取消注释以上传数据)
+# 如只上传代码，建议忽略以下目录
+data/
+graph/
+vedio/
+
+# Camera/experiment files (可能较大)
+*.cihx
