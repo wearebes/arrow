@@ -24,8 +24,6 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Optional: ignore large/local assets (取消注释以上传数据)
-# 如只上传代码，建议忽略以下目录
 data/
 graph/
 vedio/
