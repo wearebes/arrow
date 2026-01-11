@@ -24,9 +24,5 @@ venv/
 .DS_Store
 Thumbs.db
 
-data/
-graph/
-vedio/
-
 # Camera/experiment files (可能较大)
-*.cihx
+# data/, graph/, vedio/ - now tracked via LFS
