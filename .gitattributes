@@ -15,3 +15,4 @@
 *.dat filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+*.cihx filter=lfs diff=lfs merge=lfs -text
